@@ -1,0 +1,12 @@
+#calendar {
+    width:100%;
+	text-align:center;
+}
+
+#calendar table{
+    width:100%;      
+}
+
+#calendar table, th, td, tr{
+   border: 1px solid black;
+}
